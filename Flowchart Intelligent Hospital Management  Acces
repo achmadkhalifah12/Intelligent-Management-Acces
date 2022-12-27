@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T05:57:52.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="9qtRz6jM4BLnHwrojIrE" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T10:06:33.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="lJzVDdmbBwGF0YI77RWA" type="github">
   <diagram id="JFZqxcPfuoQAKOPlOgDO" name="Halaman-1">
     <mxGraphModel dx="1300" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,68 @@
             <mxPoint x="70" y="149.5" as="sourcePoint" />
             <mxPoint x="140" y="149.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-4" value="Rate Severity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-5" value="See recommended&lt;br&gt;hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-6" value="see suitable hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-7" value="Abort turn on location" style="rounded=1;whiteSpace=wrap;html=1;arcSize=37;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-8" value="Get direction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-9" value="visit suitable hospital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="461" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="149.5" as="sourcePoint" />
+            <mxPoint x="520" y="149.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="497" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.5" y="180" as="sourcePoint" />
+            <mxPoint x="579.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="-276" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.5" y="400" as="sourcePoint" />
+            <mxPoint x="579.5" y="460" as="targetPoint" />
+            <mxPoint x="7" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.5" y="280" as="sourcePoint" />
+            <mxPoint x="579.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="-276" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.5" y="521" as="sourcePoint" />
+            <mxPoint x="579.5" y="581" as="targetPoint" />
+            <mxPoint x="7" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="180" as="sourcePoint" />
+            <mxPoint x="399.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOu058M_Qb50X0l2EXKB-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="110" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
